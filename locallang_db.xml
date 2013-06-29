@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'be_user_profilepic'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="be_users.tx_beuserprofilepic_profile_pic">Profile image</label>
+			<label index="moduleFunction.tx_beuserprofilepic_modfunc1">Add profile picture</label>
+		</languageKey>
+	</data>
+</T3locallang>
